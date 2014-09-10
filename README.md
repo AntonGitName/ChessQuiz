@@ -1,9 +1,8 @@
-ChessQuiz
+Chess Quiz
 =========
 ![alt tag](https://github.com/AntonGitName/ChessQuiz/blob/master/resources/queen.png?raw=true "Pretty Queen!")
-=====
 
-This projects shows a solution for the famous [a link](https://github.com/user/repo/blob/branch/other_file.md) Eight queens puzzle.
+This project shows a solution for the famous [Eight queens puzzle](http://en.wikipedia.org/wiki/Eight_queens_puzzle). The interesting thing about the project that it has implemented [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) algorithm for this purpose.
 
 How to run (assuming you have Apache Ant installed!):
 
